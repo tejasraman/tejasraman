@@ -6,4 +6,4 @@
 - I'm currently learning Python and Powershell
 - A self-taught Bash scripter
 - Absolutely loves Linux
-- Owns 1 cat
+- Has 1 cat
