@@ -16,3 +16,7 @@ I'm a
 ![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2036-orange)
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 
+## Coding Languages
+- Python (still learning!)
+- Bash scripting (getting there!)
+- Powershell (trying!)
