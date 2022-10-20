@@ -14,4 +14,5 @@ I'm a
 
 ## OS and Tools:
 ![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2036-orange)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
+
