@@ -1,7 +1,8 @@
 
 ## 𝙷𝚒! 𝙸'𝚖 𝚃𝚎𝚓𝚊𝚜 𝚁𝚊𝚖𝚊𝚗!
 
-I'm a 7th grade student.
+I'm a 
+- 7th grade student.
 - Self-proclaimed tech enthusiast
 - I'm currently working on Python scripting, shell scripting, and Powershell
 - I'm currently learning Python and Powershell
@@ -12,4 +13,4 @@ I'm a 7th grade student.
 [![GitHub Streak](https://streak-stats.demolab.com?user=tejasraman&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 ## OS and Tools:
-[![F36](https://img.shields.io/badge/Fedora%20KDE-36-orange)]
+![F36](https://img.shields.io/badge/Fedora%20KDE-36-orange)
