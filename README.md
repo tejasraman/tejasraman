@@ -14,3 +14,5 @@ I'm a
 
 ## OS and Tools:
 ![F36](https://img.shields.io/badge/Fedora%20KDE-36-orange)
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
