@@ -13,5 +13,5 @@ I'm a
 [![GitHub Streak](https://streak-stats.demolab.com?user=tejasraman&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 ## OS and Tools:
-![F36](https://img.shields.io/badge/Fedora%20KDE-36-orange)
+![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2036-orange)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
