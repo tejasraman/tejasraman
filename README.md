@@ -1,5 +1,5 @@
 
-## 𝙷𝚒! 𝙸'𝚖 𝚃𝚎𝚓𝚊𝚜 𝚁𝚊𝚖𝚊𝚗!
+## 𝙷𝚒! 𝙸'𝚖 𝚃𝚎𝚓𝚊𝚜 𝚁𝚊𝚖𝚊𝚗! 
 
 I'm a 
 - 7th grade student.
@@ -24,3 +24,9 @@ I'm working on:
 - Python
 - Bash scripting (Learning)
 - Powershell (trying!)
+
+## Projects
+- Bashstaller - a small zenity installer
+- Bin2Deb - interactive Python script to convert a binary/dist folder to a .deb
+- Some gists
+- Some modifications to the Brunch framework (not on Github yet as I am testing)
