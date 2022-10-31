@@ -13,7 +13,7 @@ I'm working on:
 
 ## OS and Tools:
 ![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2036-orange)
-![W11](https://img.shields.io/badge/OS-Windows-11-blueviolet)
+![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet)
 <hr>
 
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
