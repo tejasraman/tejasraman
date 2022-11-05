@@ -4,6 +4,7 @@
 I'm a 
 - 7th grade student.
 - Self-proclaimed tech enthusiast
+- Loves Linux and macOS (Windows, not so much)
 
 I'm working on:
 - Python scripting and Powershell
@@ -15,6 +16,8 @@ I'm working on:
 ## OS and Tools:
 ![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2036-orange)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet)
+![mac](https://img.shields.io/badge/OS-macOS%2010.15-red)
+![mac](https://img.shields.io/badge/OS-macOS%2013-red)
 <hr>
 
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
