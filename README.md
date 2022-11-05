@@ -1,6 +1,8 @@
 
 ## 𝙷𝚒! 𝙸'𝚖 𝚃𝚎𝚓𝚊𝚜 𝚁𝚊𝚖𝚊𝚗! 
 
+![](https://komarev.com/ghpvc/?username=tejasraman&style=for-the-badge&color=blueviolet)
+
 I'm a 
 - 7th grade student.
 - Self-proclaimed tech enthusiast
