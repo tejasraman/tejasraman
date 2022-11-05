@@ -1,7 +1,7 @@
 
 ## 𝙷𝚒! 𝙸'𝚖 𝚃𝚎𝚓𝚊𝚜 𝚁𝚊𝚖𝚊𝚗! 
 
-![](https://komarev.com/ghpvc/?username=tejasraman&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=tejasraman&style=for-the-badge&color=blueviolet) since 11/5/2022
 
 I'm a 
 - 7th grade student.
