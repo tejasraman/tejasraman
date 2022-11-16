@@ -29,7 +29,7 @@ I'm working on:
 - Python
 - Bash scripting (Learning)
 - Powershell (trying!)
-
+- HTML/CSS (proficient) + a bit of JS
 ## Projects
 - Bashstaller - a small zenity installer
 - Bin2Deb - interactive Python script to convert a binary/dist folder to a .deb
