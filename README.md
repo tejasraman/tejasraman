@@ -16,9 +16,9 @@ I'm working on:
 [![GitHub Streak](https://streak-stats.demolab.com?user=tejasraman&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 ## OS and Tools:
-![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2037-orange)
-![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet)
-![mac](https://img.shields.io/badge/OS-macOS%2013-red)
+![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2037-orange?style=flat-square)
+![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square)
+![mac](https://img.shields.io/badge/OS-macOS%2013-red?style=flat-square)
 <hr>
 
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
