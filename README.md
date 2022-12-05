@@ -22,7 +22,7 @@ I'm working on:
 ![mac](https://img.shields.io/badge/OS-macOS%2013-red)
 <hr>
 
-![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
+![VS Code](https://img.shields.io/badge/IDE-VSCode-%00CED8?style=flat-square&logo=Visual-studio-code)
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-%23007ACC?style=flat-square&logo=webstorm)
 
 
