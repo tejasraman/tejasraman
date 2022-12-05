@@ -23,7 +23,7 @@ I'm working on:
 <hr>
 
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
-![WebStorm](https://img.shields.io/badge/IDE-WebStorm-blueviolet?style=flat-square&logo=webstorm&color=0, 206, 216)
+![WebStorm](https://img.shields.io/badge/IDE-WebStorm-blueviolet?style=flat-square&logo=webstorm&color=00ced8)
 
 
 ## Coding Languages
