@@ -1,5 +1,4 @@
-
-## 𝙷𝚒! 𝙸'𝚖 𝚃𝚎𝚓𝚊𝚜 𝚁𝚊𝚖𝚊𝚗! 
+[![Name](https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=1000&color=0FF700&width=435&lines=Hi%2C+I'm+Tejas+Raman!)](https://git.io/typing-svg)
 
 I'm a 
 - 7th grade student.
