@@ -3,7 +3,8 @@
 I'm a 
 - 7th grade student.
 - Self-proclaimed tech enthusiast
-- 
+
+
 I'm working on:
 - Python scripting
 - PowerShell
