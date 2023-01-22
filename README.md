@@ -27,4 +27,5 @@ I'm working on:
 - Python
 - Bash scripting (Learning)
 - Powershell (trying!)
+- Dart/Flutter
 - HTML/CSS (proficient) + JS
