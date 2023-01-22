@@ -7,7 +7,6 @@ I'm a
 
 I'm working on:
 - Python scripting
-- PowerShell
 - Dart/Flutter app development
 
 ## Stats:
