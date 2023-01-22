@@ -3,14 +3,11 @@
 I'm a 
 - 7th grade student.
 - Self-proclaimed tech enthusiast
-- National Spelling Bee contestant
-
+- 
 I'm working on:
 - Python scripting
 - PowerShell
 - Dart/Flutter app development
-- Spelling bee 🐝 (I went to the National Spelling Bee 2022)
-
 
 ## Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=tejasraman&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
