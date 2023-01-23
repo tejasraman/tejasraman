@@ -5,7 +5,7 @@
 - Self-proclaimed tech enthusiast
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=00dab9&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
 - Python scripting
 - Dart/Flutter app development
 
