@@ -10,6 +10,7 @@
 - Dart/Flutter app development
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=tejasraman&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=435&lines=OS+%26+Tools%3A)](https://git.io/typing-svg)
