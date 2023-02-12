@@ -1,9 +1,5 @@
 [![Name](https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=1000&color=0FF700&width=435&lines=Hi%2C+I'm+Tejas+Raman!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=435&lines=I'm+a%3A)](https://git.io/typing-svg)
-- 7th grade student.
-- Self-proclaimed tech enthusiast
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=00dab9&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
 - Python scripting
