@@ -20,8 +20,10 @@
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-blueviolet?style=flat-square&logo=webstorm&color=00ced8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=de0000&width=435&lines=Programming+Languages%3A)](https://git.io/typing-svg)
+Proficient:
 - Python
-- Bash scripting (Learning)
-- Powershell (trying!)
+- HTML/CSS
+Learning:
+- Bash & PWSH
 - Dart/Flutter
-- HTML/CSS (proficient) + JS
+- Javascript (somewhat)
