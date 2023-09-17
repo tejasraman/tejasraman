@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=ffe000&pause=1000&width=435&lines=OS+%26+Tools%3A)](https://git.io/typing-svg)
 <br>
-![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2037-orange?style=flat-square&logo=fedora)
+![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2038-orange?style=flat-square&logo=fedora)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
 ![mac](https://img.shields.io/badge/OS-macOS%2013-red?style=flat-square&logo=apple)
 <hr>
