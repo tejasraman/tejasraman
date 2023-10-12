@@ -14,12 +14,15 @@
 ![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2038-orange?style=flat-square&logo=fedora)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
 ![mac](https://img.shields.io/badge/OS-macOS%2013-red?style=flat-square&logo=apple)
+![mac](https://img.shields.io/badge/OS-macOS%2011-red?style=flat-square&logo=apple)
 <hr>
 
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-blueviolet?style=flat-square&logo=webstorm&color=00ced8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=de0000&width=435&lines=Programming+Languages%3A)](https://git.io/typing-svg)
+
+
 Proficient:
 - Python
 - HTML/CSS
@@ -27,3 +30,18 @@ Learning:
 - Bash & PWSH
 - Dart/Flutter
 - Javascript (somewhat)
+
+## PCs:
+Ryzen 5 3400G
+16GB DDR4 3200
+512GB SK Hynix Gold S31
+256GB SK Hynic BC511
+
+AMD A10-6800K
+16GB DDR3 2400
+240GB ADATA SU800
+
+2011 MacBook Pro
+Intel Core i5-2435M
+8GB DDR3 1600
+512GB SanDisk ULTRA II
