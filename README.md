@@ -33,15 +33,24 @@ Learning:
 
 ## PCs:
 Ryzen 5 3400G
+
 16GB DDR4 3200
+
 512GB SK Hynix Gold S31
+
 256GB SK Hynic BC511
 
+
 AMD A10-6800K
+
 16GB DDR3 2400
+
 240GB ADATA SU800
 
 2011 MacBook Pro
+
 Intel Core i5-2435M
+
 8GB DDR3 1600
+
 512GB SanDisk ULTRA II
