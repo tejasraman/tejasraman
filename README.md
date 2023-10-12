@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=00dab9&pause=1000&width=435&lines=I'm+working+on%3A)](https://git.io/typing-svg)
-- Python scripting
+- Python
 - Dart/Flutter app development
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=07da00&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
@@ -22,30 +22,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=de0000&width=435&lines=Programming+Languages%3A)](https://git.io/typing-svg)
 
-
-Proficient:
-- Python
-- HTML/CSS
-Learning:
+I'm learning:
 - Bash & PWSH
 - Dart/Flutter
-- Javascript (somewhat)
+- Javascript
 
 ## PCs:
-Ryzen 5 3400G
-16GB DDR4 3200
-512GB SK Hynix Gold S31
-256GB SK Hynic BC511
+Ryzen 5 3400G <br>
+16GB DDR4 3200 <br>
+512GB SK Hynix Gold S31 <br>
+256GB SK Hynic BC511 <br>
 
 <hr>
 
-AMD A10-6800K
-16GB DDR3 2400
-240GB ADATA SU800
+AMD A10-6800K <br>
+16GB DDR3 2400 <br>
+240GB ADATA SU800 <br>
 
 <hr>
 
-2011 MacBook Pro
-Intel Core i5-2435M
-8GB DDR3 1600
-512GB SanDisk ULTRA II
+2011 MacBook Pro <br>
+Intel Core i5-2435M <br>
+8GB DDR3 1600 <br>
+512GB SanDisk ULTRA II <br>
