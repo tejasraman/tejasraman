@@ -45,3 +45,10 @@ AMD A10-6800K <br>
 Intel Core i5-2435M <br>
 8GB DDR3 1600 <br>
 512GB SanDisk ULTRA II <br>
+
+<hr>
+
+Yoga 6 13ALC6 <br>
+Ryzen 5 5500U <br>
+8GB DDR4 3200 <br>
+512GB WDC NVMe SSD <br>
