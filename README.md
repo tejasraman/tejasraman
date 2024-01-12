@@ -22,10 +22,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=de0000&width=435&lines=Programming+Languages%3A)](https://git.io/typing-svg)
 
-I'm learning:
-- Bash & PWSH
-- Dart/Flutter
-- Javascript
+Somewhat proficient:
+- Python
+- HTML/CSS
+- Flutter/Dart (a little bit)
+
+Actively learning
+- Nim
+- Bash
 
 ## PCs:
 Ryzen 5 3400G <br>
