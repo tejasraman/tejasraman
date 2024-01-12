@@ -7,11 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=07da00&pause=1000&width=435&lines=Stats%3A)](https://git.io/typing-svg)
 <br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tejasraman&theme=ayu-mirage&type=png&background=45%2C001D08%2C00193E)](https://git.io/streak-stats)
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&color=ffe000&pause=1000&width=435&lines=OS+%26+Tools%3A)](https://git.io/typing-svg)
 <br>
 ![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2038-orange?style=flat-square&logo=fedora)
