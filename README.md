@@ -32,7 +32,8 @@ Actively learning
 - Bash
 
 ## PCs:
-Ryzen 5 3400G <br>
+Ryzen 5 3600 <br>
+Radeon RX 570 <br>
 16GB DDR4 3200 <br>
 512GB SK Hynix Gold S31 <br>
 256GB SK Hynic BC511 <br>
@@ -45,14 +46,7 @@ AMD A10-6800K <br>
 
 <hr>
 
-2011 MacBook Pro <br>
-Intel Core i5-2435M <br>
-8GB DDR3 1600 <br>
-512GB SanDisk ULTRA II <br>
-
-<hr>
-
-Yoga 6 13ALC6 <br>
-Ryzen 5 5500U <br>
-8GB DDR4 3200 <br>
-512GB WDC NVMe SSD <br>
+HP Dragonfly Elite G4 <br>
+Intel Core i7-1355U <br>
+32GB DDR5 5600 <br>
+1TB Kioxia NVMe SSD <br>
