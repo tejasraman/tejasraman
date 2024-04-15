@@ -52,3 +52,10 @@ HP Dragonfly Elite G4 <br>
 Intel Core i7-1355U <br>
 32GB DDR5 5600 <br>
 1TB Kioxia NVMe SSD <br>
+
+<hr>
+
+2011 MacBook Pro <br>
+Intel Core i5-2435M <br>
+8GB DDR3 1600 <br>
+512GB SanDisk ULTRA II <br>
