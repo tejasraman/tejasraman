@@ -32,6 +32,7 @@ Actively learning
 - Bash
 
 ## PCs:
+Custom built <br>
 Ryzen 5 3600 <br>
 Radeon RX 570 <br>
 16GB DDR4 3200 <br>
@@ -40,6 +41,7 @@ Radeon RX 570 <br>
 
 <hr>
 
+Custom built <br>
 AMD A10-6800K <br>
 16GB DDR3 2400 <br>
 240GB ADATA SU800 <br>
