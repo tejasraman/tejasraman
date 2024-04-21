@@ -11,7 +11,7 @@
 
 <br>
 
-![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2038-orange?style=flat-square&logo=fedora)
+![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2039-orange?style=flat-square&logo=fedora)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
 ![mac](https://img.shields.io/badge/OS-macOS%2013-red?style=flat-square&logo=apple)
 ![mac](https://img.shields.io/badge/OS-macOS%2011-red?style=flat-square&logo=apple)
@@ -41,17 +41,17 @@ Radeon RX 570 <br>
 
 <hr>
 
-Custom built <br>
-AMD A10-6800K <br>
-16GB DDR3 2400 <br>
-240GB ADATA SU800 <br>
-
-<hr>
-
 HP Dragonfly Elite G4 <br>
 Intel Core i7-1355U <br>
 32GB DDR5 5600 <br>
 1TB Kioxia NVMe SSD <br>
+
+<hr>
+
+Custom built <br>
+AMD A10-6800K <br>
+16GB DDR3 2400 <br>
+240GB ADATA SU800 <br>
 
 <hr>
 
