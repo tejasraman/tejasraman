@@ -36,7 +36,7 @@ Custom built <br>
 Ryzen 5 3600 <br>
 Radeon RX 570 <br>
 16GB DDR4 3200 <br>
-512GB SK Hynix Gold S31 <br>
+1TB SanDisk SSD PLUS SATA<br>
 256GB SK Hynic BC511 <br>
 
 <hr>
