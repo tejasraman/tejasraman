@@ -1,13 +1,6 @@
 [![Name](https://readme-typing-svg.demolab.com?font=Consolas&size=35&pause=1000&color=0FF700&width=435&lines=Hi%2C+I'm+Tejas+Raman!)](https://git.io/typing-svg)
 
-
-
-- Python
-- Dart/Flutter app development
-
-<br>
-
-<br>
+## Operating systems:
 
 ![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2039-orange?style=flat-square&logo=fedora)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
@@ -15,10 +8,12 @@
 ![mac](https://img.shields.io/badge/OS-macOS%2011-red?style=flat-square&logo=apple)
 <hr>
 
+## IDEs:
+
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-blueviolet?style=flat-square&logo=webstorm&color=00ced8)
 
-Somewhat proficient:
+## Programming languages:
 - Python
 - HTML/CSS
 - Flutter/Dart (a little bit)
