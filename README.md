@@ -14,39 +14,8 @@
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-blueviolet?style=flat-square&logo=webstorm&color=00ced8)
 
 ## Programming languages:
+
 - Python
-- HTML/CSS
-- Flutter/Dart (a little bit)
-
-Actively learning
-- Nim
+- HTML/CSS, Javascript
+- Flutter/Dart
 - Bash
-
-## PCs:
-Custom built <br>
-Ryzen 5 3600 <br>
-Radeon RX 570 <br>
-16GB DDR4 3200 <br>
-1TB SanDisk SSD PLUS SATA<br>
-256GB SK Hynic BC511 <br>
-
-<hr>
-
-HP Dragonfly Elite G4 <br>
-Intel Core i7-1355U <br>
-32GB DDR5 5600 <br>
-1TB Kioxia NVMe SSD <br>
-
-<hr>
-
-Custom built <br>
-AMD A10-6800K <br>
-16GB DDR3 2400 <br>
-240GB ADATA SU800 <br>
-
-<hr>
-
-2011 MacBook Pro <br>
-Intel Core i5-2435M <br>
-8GB DDR3 1600 <br>
-512GB SanDisk ULTRA II <br>
