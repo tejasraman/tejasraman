@@ -2,12 +2,14 @@
 
 ## Operating systems:
 
-![F36](https://img.shields.io/badge/OS-Fedora%20Workstation%2041-orange?style=flat-square&logo=fedora)
+![F36](https://img.shields.io/badge/OS-Fedora%20KDE%2044-orange?style=flat-square&logo=fedora)
+![mac](https://img.shields.io/badge/OS-macOS%2026-red?style=flat-square&logo=apple)
 ![W11](https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows11)
-![mac](https://img.shields.io/badge/OS-macOS%2013-red?style=flat-square&logo=apple)
+
 
 ## IDEs:
 
+![Zed](https://img.shields.io/badge/IDE-VSCode-%23084CCF?style=flat-square&logo=zedindustries)
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)
 ![WebStorm](https://img.shields.io/badge/IDE-WebStorm-blueviolet?style=flat-square&logo=webstorm&color=00ced8)
 
